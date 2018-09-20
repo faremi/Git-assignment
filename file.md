@@ -15,4 +15,4 @@ i have been able to master the basic git code like
 13. Removing a file by rm "file name"
 14. Getting the log of git by using git log
 15. Pushing a file to repository by using git pull "url" and git push "url"
-16. Remoting file by making use of git remote -v and git master -a
+16. Remoting file by making use of git remote -v and git branch -a
